@@ -4,12 +4,6 @@ A lightweight, fully functional **Calculator Web Part** built using the **ShareP
 
 ---
 
-## 📸 Preview
-
-![Calculator Web Part Preview](./assets/preview.png)
-
----
-
 ## 🚀 Features
 
 - ✅ Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
